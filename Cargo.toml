@@ -1,0 +1,11 @@
+[package]
+name = "actix_scoped_state"
+version = "0.1.0"
+authors = ["Lilith River <lilith@imazen.io>"]
+edition = "2018"
+
+[dependencies]
+actix-web = "2.0.0"
+actix-rt = "1.0.0"
+futures = "0.3.1"
+env_logger = "0.7"
